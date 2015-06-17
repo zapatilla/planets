@@ -1,5 +1,0 @@
-Solar System:
-============
-Venus
-Earth
-#TODO: Add some more planets
